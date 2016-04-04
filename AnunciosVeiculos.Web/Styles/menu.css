@@ -1,0 +1,45 @@
+﻿.menu {
+
+    display: inline-block;
+    color: white;
+    padding: 10px;
+
+}
+
+.menu:hover {
+
+    cursor: pointer;
+
+}
+
+.menu:hover .menuConteudo {
+    
+    display: block;
+
+}
+
+.menuConteudo {
+    
+    display: none;
+    position: absolute;
+
+    background-color: black;
+    border: 1px solid gray;
+
+}
+
+.menuConteudo a {
+
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+
+    color: white;
+
+}
+
+.menuConteudo a:hover {
+
+    background-color: gray;
+
+}

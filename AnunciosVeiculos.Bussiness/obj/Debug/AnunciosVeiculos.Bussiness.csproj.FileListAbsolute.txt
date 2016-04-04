@@ -1,0 +1,11 @@
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\obj\Debug\AnunciosVeiculos.Bussiness.csprojResolveAssemblyReference.cache
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\bin\Debug\AnunciosVeiculos.mdf
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\bin\Debug\AnunciosVeiculos_log.ldf
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\bin\Debug\AnunciosVeiculos.Bussiness.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\bin\Debug\AnunciosVeiculos.Bussiness.pdb
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\bin\Debug\AnunciosVeiculos.DataAccess.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\bin\Debug\AnunciosVeiculos.Entidades.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\bin\Debug\AnunciosVeiculos.DataAccess.pdb
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\bin\Debug\AnunciosVeiculos.Entidades.pdb
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\obj\Debug\AnunciosVeiculos.Bussiness.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Bussiness\obj\Debug\AnunciosVeiculos.Bussiness.pdb

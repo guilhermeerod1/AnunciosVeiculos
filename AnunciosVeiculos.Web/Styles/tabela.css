@@ -1,0 +1,52 @@
+﻿table {
+
+    margin: 0 auto;
+    width: 80%;
+    
+    border-collapse: collapse;
+    
+}
+
+thead tr {
+    border: 1px solid black;
+}
+
+th {
+
+    text-align: left;
+    text-transform: uppercase;
+
+    font-size: 14px;
+    font-weight: lighter;
+
+    background-color: lightgray;
+    color: black;
+
+    padding: 10px;
+
+}
+
+tr {
+
+    margin: 0;
+
+}
+
+tr:hover {
+
+    background-color: #eee;
+    
+}
+
+tr:hover td {
+    
+    border-bottom-color: black;
+
+}
+
+td {
+
+    padding: 5px;
+    border-bottom: 1px solid lightgray;
+
+}

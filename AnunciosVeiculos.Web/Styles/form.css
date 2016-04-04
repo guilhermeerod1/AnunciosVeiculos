@@ -1,0 +1,35 @@
+﻿input {
+
+    padding: 5px;
+    border: 1px solid gray;
+    min-width: 200px;
+    margin: 3px;
+
+}
+
+input[type="submit"]:hover {
+
+    background-color: black;
+    color: white;
+    cursor: pointer;
+
+}
+
+input[type="text"], input[type="password"], select {
+
+    min-width: 50%;
+
+}
+
+fieldset {
+
+    padding: 25px;
+    border: none;
+
+}
+
+select option {
+
+    padding: 5px;
+
+}

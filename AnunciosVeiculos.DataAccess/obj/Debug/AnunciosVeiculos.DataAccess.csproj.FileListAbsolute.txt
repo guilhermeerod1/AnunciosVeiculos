@@ -1,0 +1,9 @@
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\obj\Debug\AnunciosVeiculos.DataAccess.csprojResolveAssemblyReference.cache
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\bin\Debug\AnunciosVeiculos.mdf
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\bin\Debug\AnunciosVeiculos_log.ldf
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\bin\Debug\AnunciosVeiculos.DataAccess.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\bin\Debug\AnunciosVeiculos.DataAccess.pdb
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\bin\Debug\AnunciosVeiculos.Entidades.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\bin\Debug\AnunciosVeiculos.Entidades.pdb
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\obj\Debug\AnunciosVeiculos.DataAccess.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.DataAccess\obj\Debug\AnunciosVeiculos.DataAccess.pdb

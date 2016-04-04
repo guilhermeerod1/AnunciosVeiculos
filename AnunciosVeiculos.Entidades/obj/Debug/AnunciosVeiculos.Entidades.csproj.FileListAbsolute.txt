@@ -1,0 +1,5 @@
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Entidades\bin\Debug\AnunciosVeiculos.Entidades.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Entidades\bin\Debug\AnunciosVeiculos.Entidades.pdb
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Entidades\obj\Debug\AnunciosVeiculos.Entidades.csprojResolveAssemblyReference.cache
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Entidades\obj\Debug\AnunciosVeiculos.Entidades.dll
+D:\Guilherme\Desenvolvimento\Projetos\Web\AnunciosVeiculos\AnunciosVeiculos.Entidades\obj\Debug\AnunciosVeiculos.Entidades.pdb

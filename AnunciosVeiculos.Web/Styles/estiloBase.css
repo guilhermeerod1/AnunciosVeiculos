@@ -1,0 +1,56 @@
+﻿* {
+    
+    box-sizing: border-box;
+
+}
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+
+}
+
+header {
+
+    font-size: 30px;
+
+    color: white;
+    background-color: orange;
+    
+    width: 100%;
+    padding: 10px;
+
+}
+
+nav {
+
+    background-color: black;
+    border-bottom: 1px solid gray;
+
+    width: 100%;
+    padding: 5px;
+
+    box-shadow: 1px 1px 10px gray;
+
+}
+
+main {
+
+    min-height: 600px;
+    padding: 10px;
+
+}
+
+footer {
+
+    text-align: center;
+
+    color: white;
+    background-color: black;
+
+    height: 35px;
+    width: 100%;
+    padding: 10px;
+
+}
